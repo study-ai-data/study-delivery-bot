@@ -13,3 +13,11 @@ github issue에 목록 생성으로 자동 업데이트 예정.<br>
   ```pip install python-dateutil```
 * pytz: 타임존 사용
   ```pip install pytz```
+  
+<br><br>
+
+## Site list
+구현되지 않은 것은 추후 추가 예정
+* okky: https://okky.kr/articles/community
+* 캠퍼스픽: https://www.campuspick.com/study
+* (보류) ~스터디하자: http://www.lets-study.co.kr/~
