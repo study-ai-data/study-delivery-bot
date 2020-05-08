@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 from okky import Okky
+from campuspick import CampusPick
 
 
 if __name__ == "__main__":
